@@ -4,6 +4,8 @@ int main()
 {
     printf("hello\n");
     printf("你好\n");
+    printf("n\n");
+    printf("nnn\n");
     system("pause");
     return 0;
 }
